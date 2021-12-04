@@ -9,3 +9,7 @@ test.sh
 */roles/geerlingguy.*
 */provisioning/roles/geerlingguy.*
 */collections/ansible_collections/community/*
+
+Ignore vscode folder
+.vscode/*
+.vscode/settings.json
